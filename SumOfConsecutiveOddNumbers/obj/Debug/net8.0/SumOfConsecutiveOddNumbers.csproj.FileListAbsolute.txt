@@ -1,0 +1,14 @@
+C:\Users\Islam Mohamed\Documents\C# Projects\SumOfConsecutiveOddNumbers\SumOfConsecutiveOddNumbers\obj\Debug\net8.0\SumOfConsecutiveOddNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Islam Mohamed\Documents\C# Projects\SumOfConsecutiveOddNumbers\SumOfConsecutiveOddNumbers\obj\Debug\net8.0\SumOfConsecutiveOddNumbers.AssemblyInfoInputs.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\SumOfConsecutiveOddNumbers\SumOfConsecutiveOddNumbers\obj\Debug\net8.0\SumOfConsecutiveOddNumbers.AssemblyInfo.cs
+C:\Users\Islam Mohamed\Documents\C# Projects\SumOfConsecutiveOddNumbers\SumOfConsecutiveOddNumbers\obj\Debug\net8.0\SumOfConsecutiveOddNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\SumOfConsecutiveOddNumbers\SumOfConsecutiveOddNumbers\bin\Debug\net8.0\SumOfConsecutiveOddNumbers.exe
+C:\Users\Islam Mohamed\Documents\C# Projects\SumOfConsecutiveOddNumbers\SumOfConsecutiveOddNumbers\bin\Debug\net8.0\SumOfConsecutiveOddNumbers.deps.json
+C:\Users\Islam Mohamed\Documents\C# Projects\SumOfConsecutiveOddNumbers\SumOfConsecutiveOddNumbers\bin\Debug\net8.0\SumOfConsecutiveOddNumbers.runtimeconfig.json
+C:\Users\Islam Mohamed\Documents\C# Projects\SumOfConsecutiveOddNumbers\SumOfConsecutiveOddNumbers\bin\Debug\net8.0\SumOfConsecutiveOddNumbers.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\SumOfConsecutiveOddNumbers\SumOfConsecutiveOddNumbers\bin\Debug\net8.0\SumOfConsecutiveOddNumbers.pdb
+C:\Users\Islam Mohamed\Documents\C# Projects\SumOfConsecutiveOddNumbers\SumOfConsecutiveOddNumbers\obj\Debug\net8.0\SumOfConsecutiveOddNumbers.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\SumOfConsecutiveOddNumbers\SumOfConsecutiveOddNumbers\obj\Debug\net8.0\refint\SumOfConsecutiveOddNumbers.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\SumOfConsecutiveOddNumbers\SumOfConsecutiveOddNumbers\obj\Debug\net8.0\SumOfConsecutiveOddNumbers.pdb
+C:\Users\Islam Mohamed\Documents\C# Projects\SumOfConsecutiveOddNumbers\SumOfConsecutiveOddNumbers\obj\Debug\net8.0\SumOfConsecutiveOddNumbers.genruntimeconfig.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\SumOfConsecutiveOddNumbers\SumOfConsecutiveOddNumbers\obj\Debug\net8.0\ref\SumOfConsecutiveOddNumbers.dll
